@@ -1,9 +1,9 @@
 # My React Webpack Set Up
 
-##run development server  - npm start __
-build for production - npm run build
-run analyzer - npm run a
-run production server with webpack bundle analyzer - npm run p
+run development server  - npm start <br/>
+build for production - npm run build <br/>
+run analyzer - npm run a <br/>
+run production server with webpack bundle analyzer - npm run p <br/>
 
 - [x] Css chunking
 - [x] Vendor chunking
