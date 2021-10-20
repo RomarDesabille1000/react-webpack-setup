@@ -7,4 +7,4 @@ run production server with webpack bundle analyzer - npm run p <br/>
 
 - [x] Css chunking
 - [x] Vendor chunking
-- [x] Route splitting
+- [x] Route-based code splitting
