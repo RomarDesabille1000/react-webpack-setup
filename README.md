@@ -1,5 +1,5 @@
 # My React Webpack Set Up
 
-```reactjs
+```react
 const OtherComponent = React.lazy(() => import('./OtherComponent'));
 ```
