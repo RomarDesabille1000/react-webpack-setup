@@ -1,4 +1,4 @@
-# My React Webpack Set Up
+# My Reactjs Webpack Set Up
 
 run development server  - npm start <br/>
 build for production - npm run build <br/>
