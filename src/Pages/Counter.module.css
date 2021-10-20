@@ -1,0 +1,27 @@
+
+.container{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.number{
+    font-size:30px;
+}
+
+.button{
+    margin-top: 20px;
+    background-color: unset;
+    border: 2px solid white;
+    border-radius: 5px;
+    color:white;
+    padding: 10px 30px;
+    font-size: 18px;
+}
+
+.button:hover{
+    background-color: #222e36;
+    transition: ease-in-out 5ms;
+}

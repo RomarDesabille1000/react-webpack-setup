@@ -1,0 +1,30 @@
+body{
+    background-color: #2B3A42;
+    color: white;
+    font-family: sans-serif;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.imageLoader{
+    width: 100px;
+}
+
+.navbar{
+    display: flex;
+}
+
+.navbarLink{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.navbarLink:hover, .navbarLinkActive{
+    border-bottom: 3px solid white;
+}
