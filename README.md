@@ -1,5 +1,5 @@
 # My React Webpack Set Up
 
-- [x] css chunking
-- [x] vendor chunking
-- [x] route splitting
+- [x] Css chunking
+- [x] Vendor chunking
+- [x] Route splitting
